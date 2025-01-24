@@ -15,7 +15,7 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
 ![](https://github-readme-activity-graph.vercel.app/graph?username=alexcham23&radius=16&theme=github-dark&area=true&order=5)
 <br/>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22pzylgmv7ft56rtgdftqu3mq&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22pzylgmv7ft56rtgdftqu3mq&cover_image=true&theme=novatorem&show_offline=true&background_color=050505&interchange=true&bar_color=0e70f1&bar_color_cover=false)]]
+![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22pzylgmv7ft56rtgdftqu3mq&cover_image=true&theme=novatorem&show_offline=true&background_color=050505&interchange=true&bar_color=0e70f1&bar_color_cover=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexcham23&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
