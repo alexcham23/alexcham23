@@ -12,6 +12,8 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
 ![](https://github-readme-stats.vercel.app/api?username=alexcham23&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=alexcham23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2)<br/>
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=alexcham23&radius=16&theme=github-dark&area=true&order=5)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
 
