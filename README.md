@@ -16,12 +16,13 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
 
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexcham23&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=alexcham23&locale=en) <br>
 
-
----
 
 [![](https://visitcount.itsvg.in/api?id=alexcham23&icon=0&color=0)](https://visitcount.itsvg.in)
 
