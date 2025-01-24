@@ -2,7 +2,7 @@
 Hello, I'm Jaime Armira, a student of engineering in computer science and passionate about technology.<br><br>🔭 I'm creating a portfolio of my programming work.<br>👯 I'm open to collaborating on any project that is related to programming.<br>🤝 I'm always open to receiving advice or feedback on my projects, ideas, or skills.<br>🌱 I've learned how to create web apps with React and Node.js.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejoarmira) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alexcham23) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9797600) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ElCapi89) 
 
 # 💻 Tech Stack:
