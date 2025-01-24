@@ -15,7 +15,7 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
 ![](https://github-readme-activity-graph.vercel.app/graph?username=alexcham23&radius=16&theme=github-dark&area=true&order=5)
 <br/>
 
-![](https://spotify-recently-played-readme.vercel.app/api?count=5)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22pzylgmv7ft56rtgdftqu3mq)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alexcham23&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
