@@ -17,8 +17,9 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
   <img src="https://github-profile-trophy.vercel.app?username=alexcham23&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
-![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22pzylgmv7ft56rtgdftqu3mq&cover_image=true&theme=novatorem&show_offline=true&background_color=050505&interchange=true&bar_color=0e70f1&bar_color_cover=false)
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22pzylgmv7ft56rtgdftqu3mq&cover_image=true&theme=novatorem&show_offline=true&background_color=050505&interchange=true&bar_color=0e70f1&bar_color_cover=false" />
+</div>
 
 
 ### 🔝 Top Contributed Repo
