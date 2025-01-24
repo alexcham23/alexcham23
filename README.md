@@ -13,7 +13,6 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexcham23&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="210" alt="stats graph"  />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcham23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="210" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexcham23&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 
@@ -21,7 +20,7 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alexcham23&limit=5&theme=dark&combine_all_yearly_contributions=true"/>  
+  <img src="https://github-contributor-stats.vercel.app/api?username=alexcham23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>  
 
   <img src="https://github-profile-trophy.vercel.app?username=alexcham23&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
