@@ -26,7 +26,7 @@ Hello, I'm Jaime Armira, a student of engineering in computer science and passio
 </div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22pzylgmv7ft56rtgdftqu3mq&cover_image=true&theme=novatorem&show_offline=true&background_color=050505&interchange=true&bar_color=0e70f1&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22pzylgmv7ft56rtgdftqu3mq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=alexcham23&icon=0&color=0)](https://visitcount.itsvg.in)<br>
