@@ -8,7 +8,7 @@
 Hello! I'm **Jaime Armira**, a Computer Science and Systems Engineering student passionate about technology. 
 
 - 🔭 I'm currently creating a portfolio to showcase my programming work.
-- 🌱 I have experience building full-stack web applications using **React** and **Node.js**.
+- 🌱 I have experience building full-stack applications using **React** and **Node.js**.
 - 👯 I'm open to collaborating on any programming-related project.
 - 🤝 I'm always eager to receive advice or feedback on my projects, ideas, or skills.
 
@@ -19,7 +19,7 @@ Hello! I'm **Jaime Armira**, a Computer Science and Systems Engineering student 
 ¡Hola! Soy **Jaime Armira**, estudiante de Ingeniería en Ciencias y Sistemas, apasionado por la tecnología.
 
 - 🔭 Actualmente estoy creando un portafolio para mostrar mis proyectos de programación.
-- 🌱 Tengo experiencia desarrollando aplicaciones web full-stack utilizando **React** y **Node.js**.
+- 🌱 Tengo experiencia desarrollando aplicaciones full-stack utilizando **React** y **Node.js**.
 - 👯 Estoy abierto a colaborar en cualquier proyecto relacionado con el desarrollo de software.
 - 🤝 Siempre estoy dispuesto a recibir consejos o retroalimentación sobre mis proyectos y habilidades.
 
