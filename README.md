@@ -68,11 +68,14 @@ Hello! I'm **Jaime Armira**, a Computer Science and Systems Engineering student 
 
 <br>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22pzylgmv7ft56rtgdftqu3mq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22pzylgmv7ft56rtgdftqu3mq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=4e98b1&bar_color_cover=true">
-  </a>
-</p>
+### 🐍 Mi Historial de Código
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexcham23/alexcham23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexcham23/alexcham23/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexcham23/alexcham23/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br>
 
