@@ -53,20 +53,15 @@ Hello! I'm **Jaime Armira**, a Computer Science and Systems Engineering student 
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=alexcham23&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="210" alt="stats graph" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alexcham23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="210" alt="languages graph" />
-
+   <img src="https://streak-stats.demolab.com?user=alexcham23&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="210"/>
+  
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexcham23&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph" />
+  <div align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alexcham23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="210" alt="languages graph" />
+  </div>
 
-</div>
-
-### 🔝 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alexcham23&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br>
+</div
 
 ### 🐍 Mi Historial de Código
 <div align="center">
